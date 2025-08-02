@@ -16,18 +16,6 @@ My toolkit includes robust capabilities for data analysis, machine learning, and
 
 * **Tools**: `Git`/`GitHub`, `Jupyter Notebook`, `VS Code`
 
-### 💡 Projects
-
-A selection of my data science and machine learning work:
-
-* **World Happiness Report Analysis**: Developed an ML model to identify socioeconomic factors influencing global happiness scores.
-
-* **Google Web Graph Analysis**: Structural analysis of web graphs using BFS and degree centrality to uncover hidden patterns.
-
-* **Airbnb Superhost Predictor**: Engineered a predictive model to forecast Airbnb Superhost status.
-
-* **AAL Stock Seasonality Analysis**: Time series analysis of American Airlines stock, identifying seasonal patterns with polynomial regression.
-
 ### 🌐 Let's Connect
 
 I'm eager to connect and discuss opportunities in data science, machine learning, and quantitative roles.
