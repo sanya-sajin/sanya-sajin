@@ -34,7 +34,7 @@ I'm eager to connect and discuss opportunities in data science, machine learning
 
 * **LinkedIn**: [Sanya Sajin](https://www.linkedin.com/in/sanyasajin)
 
-* **Resume**: [View My Resume]() 
+* **Resume**: [View My Resume](https://github.com/sanya-sajin/sanya-sajin/blob/main/Sanya%20Sajin%20Resume.pdf) 
 
 * **Email**: sanyass@bu.edu
 
