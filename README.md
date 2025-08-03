@@ -1,4 +1,4 @@
-### Hi there, I'm Sanya Sajin :)
+### Hi! I'm Sanya Sajin :)
 
 ### 🚀 About Me
 
